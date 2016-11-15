@@ -1,20 +1,20 @@
 # Glosario de Terminos
 
-- **Eleccion:**
+- **Eleccion:** Conjunto de opciones sobre el motivo del sufragio.
 
-- **Persona:**
+- **Persona:** Persona que puede formar parte de un padrón.
 
 - **CanalComunicacion:**
 
 - **TipoContacto:**
 
-- **Votante:**
+- **Votante:** Persona que se encuentra en un padrón y vota.
 
-- **Voto:**
+- **Voto:** Opción elegida por un votante. Podría haber más de un voto por votante para una elección.
 
-- **Candidato:**
+- **Candidato:** Opcion para elegir por un votante en una elección.
 
-- **Padron:**
+- **Padron:** Lista de personas que votan en una elección.
 
 - **Firma:**
 

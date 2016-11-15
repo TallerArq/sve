@@ -1,21 +1,21 @@
 # Glosario de Terminos
 
-**Eleccion:**
+- **Eleccion:**
 
-**Persona:**
+- **Persona:**
 
-**CanalComunicacion:**
+- **CanalComunicacion:**
 
-**TipoContacto:**
+- **TipoContacto:**
 
-**Votante:**
+- **Votante:**
 
-**Voto:**
+- **Voto:**
 
-**Candidato:**
+- **Candidato:**
 
-**Padron:**
+- **Padron:**
 
-**Firma:**
+- **Firma:**
 
-**ComprobanteVotacion:**
+- **ComprobanteVotacion:**

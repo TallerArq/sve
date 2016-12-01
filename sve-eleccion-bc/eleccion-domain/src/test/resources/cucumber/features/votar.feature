@@ -9,7 +9,7 @@ Característica: votar
     Y selecciono un voto pendiente para concejo con id <idVoto>
     Y se definio regla con id <idRegla> que describe como maxima cantidad de elementos a seleccionar <maximoSeleccionables> y minima <minimosSeleccionables>
     Cuando selecciona <opciones>
-    Y presiona el botón <boton> enviar
+    Y presiona el botón "<boton>" enviar
     Entonces se envio el mail correctamente <correctamente>
     Y el Votante ya no puede emitir el voto con id <idVoto>
 

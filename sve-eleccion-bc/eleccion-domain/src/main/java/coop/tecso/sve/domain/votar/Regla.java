@@ -2,8 +2,10 @@ package coop.tecso.sve.domain.votar;
 
 import coop.tecso.sve.domain.base.Entity;
 
-public class Opcion extends Entity {
+public abstract class Regla extends Entity {
 	private String titulo;
 	private String descripcion;
-	private Number valor;
+	private String codigo;
+	
+	public abstract boolean run();
 }

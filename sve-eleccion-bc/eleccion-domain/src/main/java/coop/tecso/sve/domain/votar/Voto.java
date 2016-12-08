@@ -5,9 +5,9 @@ import java.util.List;
 
 import coop.tecso.sve.domain.base.EntityRoot;
 
-public class Voto extends EntityRoot {
-	
-	private Eleccion eleccion;
-	
+public class Voto extends EntityRoot {	
+	private Eleccion eleccion;	
 	private List<Opcion> opcionesSeleccionadas;
+	
+	private String nroConfirmacion;
 }

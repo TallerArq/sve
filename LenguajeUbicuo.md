@@ -4,7 +4,7 @@
 
 - **Usuario:** Es una persona que se registró en la aplicación. Puede no estar asignado a ninguna votación.
 
-- **Votante:** Persona que se encuentra en un padrón y vota. Es un usuario que participará de una votación.
+- **Votante:** Usuario que participa en una **Eleccion** emitiendo su voto.
 
 - **CanalComunicacion:** Valor para el **tipo de contacto** seleccionado. Por ejemplo: "nombre@mail.com", "341-6-123123", etc.
 
